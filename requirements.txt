@@ -2,3 +2,4 @@ json
 plotly
 flask
 gunicorn
+pip
